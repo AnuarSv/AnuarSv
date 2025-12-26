@@ -4,14 +4,6 @@ A curious nerd exploring the worlds of **Python & Machine Learning**, tinkering 
 
 ---
 
-## ⚙️ What I play with
-
-| Python & ML | Backend & Servers | Dev Tools | Game & Web |
-|-------------|-----------------|-----------|------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" /> |
-
----
-
 ## 💡 Fun facts
 
 - I break things just to fix them better  
