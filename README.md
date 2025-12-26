@@ -1,4 +1,4 @@
-# Hello, I'm Anuar 🙃
+# Hi
 
 Interested in Python and Machine Learning.
 Working with servers, Docker, and web projects.
