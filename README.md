@@ -1,6 +1,7 @@
 # Hi, I'm Anuar
 
-A curious nerd exploring the worlds of **Python & Machine Learning**, tinkering with **servers, Docker**, and creating web projects.
+Interested in Python and Machine Learning.
+Working with servers, Docker, and web projects.
 
 ---
 
