@@ -16,8 +16,10 @@ A curious nerd exploring the worlds of **Python & Machine Learning**, tinkering 
 
 - I break things just to fix them better  
 - Love clean code and small elegant projects  
-- Always curious about new tech and hidden tricks  
+- Always curious about new tech and hidden tricks
 
 ---
 
-![Random GIF](https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif)
+## 🏆 LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ARSVKH?theme=dark)](https://leetcode.com/ARSVKH/)
