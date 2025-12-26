@@ -20,4 +20,4 @@ A curious nerd exploring the worlds of **Python & Machine Learning**, tinkering 
 
 ---
 
-![Coding Animation](https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif)
+![Random GIF](https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif)
