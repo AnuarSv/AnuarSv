@@ -1,13 +1,23 @@
-# Hi, I'm Anuar 👋
+# Hi, I'm Anuar
 
-🎮 **Game Developer | 🤖 ML & Python | 💻 Backend: NodeJS | 🌐 Frontend: React + Tailwind v4**
+A curious nerd exploring the worlds of **Python & Machine Learning**, tinkering with **servers, Docker**, and creating web projects.
+
+---
+
+## ⚙️ What I play with
+
+| Python & ML | Backend & Servers | Dev Tools | Game & Web |
+|-------------|-----------------|-----------|------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" /> |
 
 ---
 
-## 🛠 Skills
+## 💡 Fun facts
 
-| Frontend | Backend | Machine Learning | Game Dev |
-|----------|---------|----------------|----------|
-| ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) React, Tailwind v4, HTML, CSS, JS, TS | ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) NodeJS, Express, REST API | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python, scikit-learn, TensorFlow | ![Unity](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg) Unity, C# |
+- I break things just to fix them better  
+- Love clean code and small elegant projects  
+- Always curious about new tech and hidden tricks  
 
 ---
+
+![Coding Animation](https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif)
