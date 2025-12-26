@@ -5,7 +5,7 @@ Working with servers, Docker, and web projects.
 
 ---
 
-## 💡 Fun facts
+## Fun facts
 
 - I break things just to fix them better  
 - Love clean code and small elegant projects  
@@ -13,6 +13,6 @@ Working with servers, Docker, and web projects.
 
 ---
 
-## 🏆 LeetCode
+## LeetCode
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ARSVKH?theme=dark)](https://leetcode.com/ARSVKH/)
