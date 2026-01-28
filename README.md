@@ -1,4 +1,4 @@
-# ```print('Anuar Sultanbekov')```
+# ```python print('Anuar Sultanbekov')```
 
 Interested in Python and Machine Learning.
 
