@@ -1,6 +1,6 @@
 <h1 align="center">Anuar Sultanbekov</h1>
 
-<p align="center">Interested in Python and Machine Learning.<br/>Working with servers, Docker, and web projects.</p>
+<p align="center">Interested in Java Backend and Machine Learning.<br/>Working with servers, Docker, and web projects.</p>
 
 <h2 align="center">LeetCode</h2>
 <div align="center">
