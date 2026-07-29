@@ -5,6 +5,6 @@
 <h2 align="center">LeetCode</h2>
 <div align="center">
   <a href="https://leetcode.com/ARSVKH/">
-    <img src="https://leetcard.jacoblin.cool/ARSVKH?theme=dark" />
+    <img src="https://leetcard.jacoblin.cool/ASK?theme=dark" />
   </a>
 </div>
